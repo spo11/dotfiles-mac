@@ -10,3 +10,6 @@
 [submodule "_vim/bundle/cocoa.vim"]
 	path = _vim/bundle/cocoa.vim
 	url = git://github.com/jgoulah/cocoa.vim.git
+[submodule "_vim/vim-pathogen"]
+	path = _vim/vim-pathogen
+	url = git://github.com/tpope/vim-pathogen.git
